@@ -85,3 +85,12 @@ npm run dev
 Email: admin@me.com
 
 Password: 123
+### Project Screenshots
+### 🔐 Login Page
+![Login Page](./emp_man_login.jpeg)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](./admin_dashboard.jpeg)
+
+### 👷 Employee Dashboard
+![Employee Dashboard](./employee_dashboard.jpeg)
