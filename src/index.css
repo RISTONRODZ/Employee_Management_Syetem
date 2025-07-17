@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+body {
+  background: #111;
+}
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
+#tasklist {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar {
+  overflow: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
