@@ -66,6 +66,20 @@ cd your-repo-name
 
 ---
 
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## start the website
+
+```bash
+npm run dev
+```
+
+---
+
 ### Default Admin Credentials
 
 Email: admin@me.com
